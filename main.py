@@ -1,3 +1,8 @@
+# main.py
+# pip install -q pyinstaller
+# pyinstaller --onefile main.py
+# pyinstaller --onefile --windowed main.py
+
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QTableWidget, QTableWidgetItem
 from PyQt5.QtWidgets import QVBoxLayout, QWidget, QHBoxLayout, QHeaderView, QLabel, QMessageBox, QFormLayout, QFileDialog
