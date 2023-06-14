@@ -1,7 +1,5 @@
-# main.py
-# pip install -q pyinstaller
-# pyinstaller --onefile main.py
-# pyinstaller --onefile --windowed main.py
+# main_window.py
+# 15-06-2023
 
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow, QPushButton, QTableWidget, QTableWidgetItem
