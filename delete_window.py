@@ -1,4 +1,6 @@
 # delete_window.py
+# 15-06-2023
+
 from PyQt5.QtWidgets import QWidget, QLineEdit, QPushButton, QVBoxLayout, QApplication, QLabel, QMessageBox
 from PyQt5.QtCore import Qt
 
@@ -67,3 +69,4 @@ class DeleteWindow(QWidget):
         window_geometry.moveTop(window_geometry.top() + 90)
         # Перемещаем главное окно по этим координатам
         self.move(window_geometry.topLeft())
+    
