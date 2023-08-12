@@ -1,4 +1,4 @@
-# sqlite_pyqt5
+# PyQt5 SQLite Tool
 
 - main.py
 - **`pip install -q pyinstaller`**
