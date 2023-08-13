@@ -5,6 +5,10 @@
 - **`pyinstaller --onefile main.py`**
 - **`pyinstaller --onefile --windowed main.py`**
 
+<p>
+<img src="https://github.com/alecseiterr/pilgrim_people/blob/main/Dmitry_Panfilov/files/sqlite.jpg" width="90%">
+</p>
+
 ---
 
 # PyQt5 предоставляет мощные инструменты для работы с базами данных SQL через модуль QtSql:
